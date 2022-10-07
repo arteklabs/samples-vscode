@@ -1,7 +1,7 @@
 ==========================
-Lifespline Samples: Docker
+Lifespline Samples: VSCode
 ==========================
 
-``lifespline/samples-vscode`` teaches abouth `docker <https://www.docker.com/>`_ through a series of samples.
+``lifespline/samples-vscode`` teaches about `vscode <https://code.visualstudio.com/>`_ .
 
 Read the docs `here <https://lifespline.github.io/samples-vscode/>`_.
