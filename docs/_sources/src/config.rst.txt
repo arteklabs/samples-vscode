@@ -10,3 +10,4 @@ Configuration
    config/themes
    config/shortcuts
    config/extensions
+   config/python
