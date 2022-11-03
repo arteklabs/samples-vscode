@@ -5,3 +5,5 @@
 ==========
 Literature
 ==========
+
+* `variable reference <https://code.visualstudio.com/docs/editor/variables-reference>`_
