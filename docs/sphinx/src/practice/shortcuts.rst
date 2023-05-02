@@ -1,49 +1,64 @@
-==========
-Exercise 1
-==========
+shortcuts
+=========
 
-Given the following file:
+`mac <https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf>`_
+-----------------------------------------------------------------------------
 
-.. code-block:: json
+* ``cmd`` collapse all
+* ``cmd`` uncollapse all
+* ``cmd`` collapse/uncollapse current section
+* ``cmdf`` delete current line
+* ``cmd`` delete last word
+* ``cmd`` copy current line down
+* ``cmd`` move current line up
+* ``cmd`` move current line down
+* ``cmd+k+c`` comment out section of code
+* ``cmd+k+u`` uncomment out section of code
+* ``cmd`` multicursor
+* ``cmd`` zen mode
+* ``cmd`` open editor in new window
+* ``shift+cmd+p`` command pallette
+* ``cmd`` find files
+* ``cmd`` select next word
+* ``cmd`` select previous word
+* ``cmd`` move current editor to the left
+* ``cmd`` move current editor to the right
+* ``cmd`` split editor in two (horizontal)
+* ``cmd`` toggle sidebar
+* ``control+`` toggle terminal
+* ``cmd`` shift views
+* ``cmd`` remove trailing whitespace in current editor
+* ``cmd`` format code
+* ``cmd`` select current line
+* ``cmd`` open md preview
 
-    {
-        "name": "John Doe",
-        "age": 43,
-        "address": {
-            "street": "123 Main St",
-            "city": "Anytown",
-            "state": "CA",
-            "zip": "12345"
-        },
-        "phone_numbers": [
-            "555-1234",
-            "555-5678"
-        ]
-    }
 
-* ``Ctrl+K+0`` collapse all
-* ``Ctrl+K+J`` uncollapse all
-* ``Ctrl+K+L`` collapse/uncollapse current section
-* ``Shift+DEL``, ``Ctrl+Shift+K`` delete current line
-* ``Ctrl+BACKSPACE`` delete last word
-* ``Shift+Alt+DOWN|UP`` copy current line down
-* ``Alt+UP`` move current line up
-* ``Alt+DOWN`` move current line down
-* ``Ctrl+K+C`` comment out section of code
-* ``Ctrl+K+U`` uncomment out section of code
-* ``Ctrl+Alt+UP|DOWN`` multicursor
-* ``Ctrl+K Z`` zen mode
-* ``Ctrl+K O`` open editor in new window
-* ``Ctrl+Shift+P`` command pallette
-* ``Ctrl+Shift+F`` find files
-* ``Ctrl+Shift+RIGHT`` select next word
-* ``Ctrl+Shift+LEFT`` select previous word
-* ``Ctrl+Alt+LEFT`` move current editor to the left
-* ``Ctrl+Alt+RIGHT`` move current editor to the right
-* ``Ctrl+\`` split editor in two (horizontal)
-* ``Ctrl+B`` toggle sidebar
-* ``Ctrl+NUMBER`` shift views
-* ``Ctrl+K+X`` remove trailing whitespace in current editor
-* ``Ctrl+K+F`` format code
-* ``Ctrl+L`` select current line
-* ``Ctrl+Shift+V`` open md preview
+windows
+-------
+
+* ``ctrl+k+0`` collapse all
+* ``ctrl+k+j`` uncollapse all
+* ``ctrl+k+l`` collapse/uncollapse current section
+* ``shift+del``, ``ctrl+shift+k`` delete current line
+* ``ctrl+backspace`` delete last word
+* ``shift+alt+down|up`` copy current line down
+* ``alt+up`` move current line up
+* ``alt+down`` move current line down
+* ``ctrl+k+c`` comment out section of code
+* ``ctrl+k+u`` uncomment out section of code
+* ``ctrl+alt+up|down`` multicursor
+* ``ctrl+k z`` zen mode
+* ``ctrl+k o`` open editor in new window
+* ``ctrl+shift+p`` command pallette
+* ``ctrl+shift+f`` find files
+* ``ctrl+shift+right`` select next word
+* ``ctrl+shift+left`` select previous word
+* ``ctrl+alt+left`` move current editor to the left
+* ``ctrl+alt+right`` move current editor to the right
+* ``ctrl+\`` split editor in two (horizontal)
+* ``ctrl+b`` toggle sidebar
+* ``ctrl+number`` shift views
+* ``ctrl+k+x`` remove trailing whitespace in current editor
+* ``ctrl+k+f`` format code
+* ``ctrl+l`` select current line
+* ``ctrl+shift+v`` open md preview
